@@ -5,3 +5,6 @@ stworzony został w oparciu o tutoriale z youtube dotyczące obsługi Riot Games
 Żeby uruchomic ten program potrzebne są do zainstalowania: Język python, python Requests, Tkinter
 
 Nie cały kod jest potrzebny do uruchamienia programu, służył on do nauki i nie wszystkie metody i pliki biorą udział w działaniu programu
+
+!!! UWAGA !!!
+Do repozytorium w Github nie załadowałem obrazków wykożystywanych w programie ponieważ serwis mi na to nie pozwalał (więcej niż 100 plików)
